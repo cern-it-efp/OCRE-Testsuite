@@ -1,8 +1,4 @@
-**THE SUITE HAS BEEN MOVED OVER TO |EOSC-Testsuite|. THIS REPOSITORY IS NO LONGER UPDATED**
-
-.. |EOSC-Testsuite| raw:: html
-
-  <a href="https://github.com/cern-it-efp/EOSC-Testsuite" target="_blank">cern-it-efp/EOSC-Testsuite</a>
+**THE SUITE HAS BEEN MOVED OVER TO `cern-it-efp/EOSC-Testsuite <https://github.com/cern-it-efp/EOSC-Testsuite/>`_. THIS REPOSITORY IS NO LONGER UPDATED**
 
 *****
 
