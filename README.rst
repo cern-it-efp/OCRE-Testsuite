@@ -1,3 +1,7 @@
+**THE SUITE HAS BEEN MOVED OVER TO https://github.com/cern-it-efp/EOSC-Testsuite. THIS REPOSITORY IS NO LONGER UPDATED**
+
+*****
+
 ================================================
 OCRE Test-Suite for cloud validation - CERN
 ================================================
