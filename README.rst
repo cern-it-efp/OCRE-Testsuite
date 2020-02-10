@@ -1,4 +1,6 @@
-**THE SUITE HAS BEEN MOVED OVER TO `cern-it-efp/EOSC-Testsuite <https://github.com/cern-it-efp/EOSC-Testsuite/>`_. THIS REPOSITORY IS NO LONGER UPDATED**
+**THE SUITE HAS BEEN MOVED OVER TO https://github.com/cern-it-efp/EOSC-Testsuite.
+
+THIS REPOSITORY IS NO LONGER UPDATED**
 
 *****
 
